@@ -1,0 +1,8 @@
+Sample project to experiment with JPA, JTA and multiple persistence units.
+
+
+1. Run translation-core/src/main/sql/schema.sql in MySQL.
+2. Change directory to mpu-parent and run mvn install
+3. Change directory to mpu-webapp and run mvn jetty:run
+4. Open http://localhost:8080
+
