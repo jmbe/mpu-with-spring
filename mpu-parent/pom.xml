@@ -18,7 +18,7 @@
 
     <properties>
         <stripes.version>1.5</stripes.version>
-        <spring.version>2.5.6</spring.version>
+        <spring.version>5.2.0.RELEASE</spring.version>
         <hibernate.version>3.3.1.GA</hibernate.version>
         <hibernate-em.version>3.3.2.GA</hibernate-em.version>
         <source.level>1.5</source.level>
